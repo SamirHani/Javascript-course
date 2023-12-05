@@ -1,0 +1,10 @@
+:root {
+  --bg-1E: #1e1e1e;
+}
+body {
+  background-color: var(--bg-1E);
+  display: grid;
+  place-content: center;
+  height: 100vh;
+  color: #1e63c4;
+}

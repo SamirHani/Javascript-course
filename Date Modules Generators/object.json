@@ -1,0 +1,35 @@
+{ "one": {
+  "string": "Osama",
+  "number":30,
+  "object": {
+    "EG": "Giza",
+    "KSA": "Riyadh"
+  },
+  "array" : ["HTML" , "CSS" , "JS"],
+  "boolean": true,
+  "null": null
+},
+"two": {
+  "string": "Osama",
+  "number":30,
+  "object": {
+    "EG": "Giza",
+    "KSA": "Riyadh"
+  },
+  "array" : ["HTML" , "CSS" , "JS"],
+  "boolean": true,
+  "null": null
+},
+"three": {
+  "string": "Osama",
+  "number":30,
+  "object": {
+    "EG": "Giza",
+    "KSA": "Riyadh"
+  },
+  "array" : ["HTML" , "CSS" , "JS"],
+  "boolean": true,
+  "null": null
+}
+}
+

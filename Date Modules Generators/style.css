@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  font-family: sans-serif;
+  font-size: 18px;
+  color: black !important;
+}
+.card {
+  background-color: rgb(72, 161, 146);
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 800px;
+}
+img {
+  width: 70px;
+  height: 70px;
+  /* margin: 10px; */
+  padding: 10px;
+}
